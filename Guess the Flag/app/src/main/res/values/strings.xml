@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess the Flag</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="title_activity_main6">MainActivity6</string>
+</resources>
